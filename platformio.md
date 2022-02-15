@@ -18,10 +18,7 @@
 หลังจากนั้นให้เลือกช่อง extensions และกดที่ช่องค้นหา หาคำว่า platform จะได้ประมาณนี้
 <img width="988" alt="Screen Shot 2565-02-16 at 00 46 18" src="https://user-images.githubusercontent.com/98943436/154119413-7eb87185-99b6-4809-acaf-d507dc2ce546.png">
 
-กด install และกดที่หน้าสัญลักษณ์ platformio 
-<img width="1440" alt="Screen Shot 2565-02-16 at 00 40 57" src="https://user-images.githubusercontent.com/98943436/154118549-a7891c89-9184-429e-8eaa-517b9469f926.png">
-
-กด open ก็จะได้หน้าตาประมาณนี้
+กด install และกดที่หน้าสัญลักษณ์ platformio หลังจากนั้นกด open ก็จะได้หน้าตาประมาณนี้
 <img width="988" alt="Screen Shot 2565-02-16 at 00 43 47" src="https://user-images.githubusercontent.com/98943436/154118864-38e14081-cef0-434f-8b22-848c70c1f350.png">
 
 ติดตั้งสำเร็จจ
