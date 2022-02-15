@@ -68,7 +68,7 @@
 **speed(flash) :** 128Mbit
 
 **port :** 14-pin headers with JTAG, GPIO, PWM, SPI, I2C, and UART
-           
+          
 **price :** ~1000 baht
 
 **link :** https://www.digikey.co.th/th/videos/g/groupgets/groupgets-lofive-r1-risc-v-evaluation-kit-digi-key-daily
