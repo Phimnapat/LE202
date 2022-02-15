@@ -44,16 +44,31 @@
 **link :** https://docs.platformio.org/en/latest/boards/espressif8266/espduino.html
            https://www.allnewstep.com/product/1055/espduino-esp8266-esp-13
 
-## 
+## ATmega32
 
-**model :** 
+**model :** ATMEGA32-16PU
 
-**memory :** 
+**memory :** 2KB
 
-**speed(flash) :** 
+**speed(flash) :** 32KB
 
-**port :** 
+**port :** -
            
-**price :** 
+**price :** ~250 baht
 
-**link :** 
+**link :** https://docs.platformio.org/en/latest/boards/atmelavr/ATmega32.html
+           https://www.microchip.com/en-us/product/ATmega32?gclid=Cj0KCQiAu62QBhC7ARIsALXijXQFWJ7Y_w6nDcNrfok6sTfEgneJ9Q-ZEw6Q_eBD2yeGQBcSyW0GZt8aAnXpEALw_wcB#buy-from-store
+
+## LoFive R1 RISC-V
+
+**model :** SIFIVE FE310-G002 RISC-V DEV
+
+**memory :** 16KB
+
+**speed(flash) :** 128Mbit
+
+**port :** 14-pin headers with JTAG, GPIO, PWM, SPI, I2C, and UART
+           
+**price :** ~1000 baht
+
+**link :** https://www.digikey.co.th/th/videos/g/groupgets/groupgets-lofive-r1-risc-v-evaluation-kit-digi-key-daily
