@@ -4,9 +4,9 @@
 
 **model :** SiFive Freedom U740 SoC
 
-**memory :** 16GB
+**memory flash :** 32 MB, RAM 8 GB
 
-**speed :** 32MB
+**speed :** 1500MHz
 
 **port :** 4x USB 3.2 Gen 1 Type A Ports (1 Charging Port), 1x MicroUSB Console Port
            
@@ -18,9 +18,9 @@
 
 **model :** Artix-7 FPGA
 
-**memory :** 1.16MB
+**memory flash :** 16 MB, RAM 1.16MB
 
-**speed :** 16MB
+**speed :** 320 MHz
 
 **port :** USB-JTAG programming circuitry, USB-UART bridge, USB HID Host for mice, keyboards and memory sticks
            
@@ -33,9 +33,9 @@
 
 **model :** ESP8266
 
-**memory :** 80Kb
+**memory flash :** 4 MB, RAM 80Kb
 
-**speed :** 4MB
+**speed :** 80 MHz
 
 **port :** USB Arduino Uno, wifi
            
@@ -48,11 +48,11 @@
 
 **model :** ATMEGA32-16PU
 
-**memory :** 2KB
+**memory flash :** 32 KB, RAM 2KB
 
-**speed :** 32KB
+**speed :** 16 MHz
 
-**port :** -
+**port :** 32 I/O pins
            
 **price :** ~250 baht
 
@@ -63,9 +63,9 @@
 
 **model :** SIFIVE FE310-G002 RISC-V DEV
 
-**memory :** 16KB
+**memory flash :** 128 Mbit
 
-**speed :** 128Mbit
+**speed :** 320 MHz
 
 **port :** 14-pin headers with JTAG, GPIO, PWM, SPI, I2C, and UART
           
