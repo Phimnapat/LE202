@@ -6,7 +6,7 @@
 
 **memory :** 16GB
 
-**speed(flash) :** 32MB
+**speed :** 32MB
 
 **port :** 4x USB 3.2 Gen 1 Type A Ports (1 Charging Port), 1x MicroUSB Console Port
            
@@ -20,7 +20,7 @@
 
 **memory :** 1.16MB
 
-**speed(flash) :** 16MB
+**speed :** 16MB
 
 **port :** USB-JTAG programming circuitry, USB-UART bridge, USB HID Host for mice, keyboards and memory sticks
            
@@ -35,7 +35,7 @@
 
 **memory :** 80Kb
 
-**speed(flash) :** 4MB
+**speed :** 4MB
 
 **port :** USB Arduino Uno, wifi
            
@@ -50,7 +50,7 @@
 
 **memory :** 2KB
 
-**speed(flash) :** 32KB
+**speed :** 32KB
 
 **port :** -
            
@@ -65,7 +65,7 @@
 
 **memory :** 16KB
 
-**speed(flash) :** 128Mbit
+**speed :** 128Mbit
 
 **port :** 14-pin headers with JTAG, GPIO, PWM, SPI, I2C, and UART
           
